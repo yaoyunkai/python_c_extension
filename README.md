@@ -1,2 +1,2 @@
-Python C extension
+# Python C extension
 
